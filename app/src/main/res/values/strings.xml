@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">firebaseWork</string>
+    <string name="retrieve_data">Retrieve Data</string>
+    <string name="upload_data">Upload Data</string>
+    <string name="places">Places :</string>
+    <string name="insert_place">Insert Place</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="search_here">Search Here</string>
+    <string name="Search_Here">Search_Here</string>
+</resources>
